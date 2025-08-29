@@ -1,0 +1,102 @@
+[
+    {
+        "id": "lcml",
+        "title": "Mangalyavedi",
+        "details": {
+            "description": "A Full stack PHP /CMS based Web Application for Finding you match in the Community (Freelance Project)",
+            "summary": "Web Application"
+        },
+        "date": "April 2023",
+        "roles": [
+            "UI/UX Designer",
+            "Full-Stack Web Developer"
+        ],
+        "links": [
+            {
+                "type": "web",
+                "text": "Visit Site",
+                "link": "https://mangalyavedi.online/"
+            }
+        ]
+    },
+    {
+        "id": "v1",
+        "title": "HoverShelf",
+        "details": {
+            "description": "My Design and Developement Agency ",
+            "summary": "Agency"
+        },
+        "date": "Dec 2024",
+        "roles": [
+            "Gen AI development",
+            "Fullstack Developer"
+        ],
+        "links": [
+            {
+                "type": "web",
+                "text": "Visit Site",
+                "link": "https://hovershelf.io/"
+            }
+        ]
+    },
+    {
+        "id": "kic",
+        "title": "Covid Data Analysis Dashboard",
+        "details": {
+            "description": "A Simple Tablueau And SQL portfolio project during my Undergrad",
+            "summary": "SQL based Tableau Dashboard"
+        },
+        "date": "July 2019",
+        "roles": [
+            "UI/UX Designer",
+            "Mobile Developer w/ Flutter",
+            "Full-Stack Web Developer"
+        ],
+        "links": [
+            {
+                "type": "web",
+                "text": "Visit Git Link",
+                "link": "https://github.com/GhanShyam-nair/SQLPortfolioProject"
+            }
+        ]
+    },
+    {
+        "id": "grillzzy",
+        "title": "Publication",
+        "details": {
+            "description": "Design and Implementation of E-commerce Website using Automata Theory",
+            "summary": "Research Paper"
+        },
+        "date": "Nov 2020",
+        "roles": [
+            "Co-Author",
+            "Developer"
+        ],
+        "links": [
+            {
+                "type": "web",
+                "text": "Read Paper @",
+                "link": "https://ieeexplore.ieee.org/document/9777191/"
+            }
+        ]
+    },
+    {
+        "id": "slickscroll",
+        "title": "CUSTOM DARKNET",
+        "details": {
+            "description": "Darknet is an open source neural network framework written in C and CUDA. It is fast, easy to install, and supports CPU and GPU computation.",
+            "summary": "Personal Project"
+        },
+        "date": "March 2022",
+        "roles": [
+            "Maintainer"
+        ],
+        "links": [
+            {
+                "type": "web",
+                "text": "View on Github",
+                "link": "https://github.com/GhanShyam-nair/darknet"
+            }
+        ]
+    }
+]
