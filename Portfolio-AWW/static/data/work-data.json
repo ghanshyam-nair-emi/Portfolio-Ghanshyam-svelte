@@ -35,28 +35,28 @@
             {
                 "type": "web",
                 "text": "Visit Site",
-                "link": "https://hovershelf.io/"
+                "link": "https://hover-shelf-ui-rtwg.vercel.app"
             }
         ]
     },
     {
         "id": "kic",
-        "title": "Covid Data Analysis Dashboard",
+        "title": "Mumbaihunt – Mumbai Rent Analysis",
         "details": {
-            "description": "A Simple Tablueau And SQL portfolio project during my Undergrad",
-            "summary": "SQL based Tableau Dashboard"
+            "description": "Mumbaihunt is a comprehensive rental market analysis platform that provides cross-analysis of rent prices across different areas of Mumbai. Using data visualization and market insights, it helps users understand rental trends, compare neighborhoods, and make informed decisions about housing in Mumbai.",
+            "summary": "Filter based React  Dashboard"
         },
         "date": "July 2019",
         "roles": [
-            "UI/UX Designer",
-            "Mobile Developer w/ Flutter",
+            "Data Science",
+            "Data Analysis and Web Scrapping",
             "Full-Stack Web Developer"
         ],
         "links": [
             {
                 "type": "web",
                 "text": "Visit Git Link",
-                "link": "https://github.com/GhanShyam-nair/SQLPortfolioProject"
+                "link": "https://ghanshyam-nair-emi.github.io/MumbaiHunt"
             }
         ]
     },
@@ -82,21 +82,62 @@
     },
     {
         "id": "slickscroll",
-        "title": "CUSTOM DARKNET",
+        "title": "PodInsight",
         "details": {
-            "description": "Darknet is an open source neural network framework written in C and CUDA. It is fast, easy to install, and supports CPU and GPU computation.",
+            "description": "Spotify Transcript delivers concise, AI-generated transcripts of Spotify podcasts. Perfect for quick insights and key takeaways, it transforms audio content into digestible text summaries, making podcast content more accessible and searchable.",
             "summary": "Personal Project"
         },
-        "date": "March 2022",
+        "date": "March 2025",
         "roles": [
-            "Maintainer"
+            "Python Developer"
         ],
         "links": [
             {
                 "type": "web",
                 "text": "View on Github",
-                "link": "https://github.com/GhanShyam-nair/darknet"
+                "link": "https://github.com/ghanshyam-nair-emi/PodInsights"
             }
         ]
-    }
+    },
+        {
+        "id": "lcml",
+        "title": "arxiv-search-assistant",
+        "details": {
+            "description": "ArxivSearch is a Streamlit-powered AI research assistant that helps users discover academic papers on arXiv. Utilizing OpenAI GPT-4o-mini, MultiOn web browsing, and Mem0 with Qdrant for user context, it maintains memory of interests and past interactions for personalized research experiences.",
+            "summary": "Web Application"
+        },
+        "date": "April 2025",
+        "roles": [
+            "Python StreamLit",
+            "LLMs",
+            "Gen AI Developer"
+        ],
+        "links": [
+            {
+                "type": "web",
+                "text": "Visit Site",
+                "link": "https://mangalyavedi.online/"
+            }
+        ]
+    },
+        {
+        "id": "v1",
+        "title": "Cheddar-Ai",
+        "details": {
+            "description": "Cheddar AI is an MCP-based fact-checking engine designed to verify the authenticity of trending news. By leveraging trusted sources and intelligent algorithms, it confirms whether a story is officially validated or not, empowering users to make informed decisions and avoid misinformation. ",
+            "summary": "Agency"
+        },
+        "date": "Dec 2024",
+        "roles": [
+            "Gen AI development",
+            "Fullstack Developer"
+        ],
+        "links": [
+            {
+                "type": "web",
+                "text": "Visit Site",
+                "link": "https://hover-shelf-ui-rtwg.vercel.app"
+            }
+        ]
+    },
 ]
