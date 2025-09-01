@@ -100,7 +100,7 @@
         ]
     },
     {
-        "id": "arxiv-search",
+        "id": "leaf",
         "title": "arxiv-search-assistant",
         "details": {
             "description": "ArxivSearch is a Streamlit-powered AI research assistant that helps users discover academic papers on arXiv. Utilizing OpenAI GPT-4o-mini, MultiOn web browsing, and Mem0 with Qdrant for user context, it maintains memory of interests and past interactions for personalized research experiences.",
@@ -121,7 +121,7 @@
         ]
     },
     {
-        "id": "cheddar-ai",
+        "id": "tower",
         "title": "Cheddar-Ai",
         "details": {
             "description": "Cheddar AI is an MCP-based fact-checking engine designed to verify the authenticity of trending news. By leveraging trusted sources and intelligent algorithms, it confirms whether a story is officially validated or not, empowering users to make informed decisions and avoid misinformation.",
