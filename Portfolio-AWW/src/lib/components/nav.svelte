@@ -100,7 +100,7 @@
 							<a href="mailto:ghanusnair@gmail.com" target="_blank" in:mobileTransitionSwitcher={{ delay: 350 }}>Email</a>
 						</li>
 						<li use:introAnimation={{ delay: 1300 }}>
-							<a href="https://github.com/GhanShyam-nair" target="_blank" in:mobileTransitionSwitcher={{ delay: 400 }}>Github</a>
+							<a href="https://github.com/ghanshyam-nair-emi" target="_blank" in:mobileTransitionSwitcher={{ delay: 400 }}>Github</a>
 						</li>
 					{/key}
 				</ul>

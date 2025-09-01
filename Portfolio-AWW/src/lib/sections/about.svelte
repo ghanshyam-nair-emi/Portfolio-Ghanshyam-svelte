@@ -60,7 +60,7 @@
 					<span class="button"><a href="mailto:ghanusnair@gmail.com" target="_blank" class="clickable sublink link">Email Me</a></span>
 				</div>
 				<div in:maskSlideIn={{ delay: 700, reverse: true }}>
-					<span class="button"><a href="https://github.com/GhanShyam-nair" target="_blank" class="clickable sublink link">Github</a></span>
+					<span class="button"><a href="https://github.com/ghanshyam-nair-emi" target="_blank" class="clickable sublink link">Github</a></span>
 				</div>
 			</div>
 		</div>
