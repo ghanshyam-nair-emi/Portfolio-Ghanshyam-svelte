@@ -99,8 +99,8 @@
             }
         ]
     },
-        {
-        "id": "lcml",
+    {
+        "id": "arxiv-search",
         "title": "arxiv-search-assistant",
         "details": {
             "description": "ArxivSearch is a Streamlit-powered AI research assistant that helps users discover academic papers on arXiv. Utilizing OpenAI GPT-4o-mini, MultiOn web browsing, and Mem0 with Qdrant for user context, it maintains memory of interests and past interactions for personalized research experiences.",
@@ -115,17 +115,17 @@
         "links": [
             {
                 "type": "web",
-                "text": "Visit Site",
-                "link": "https://mangalyavedi.online/"
+                "text": "View on Github",
+                "link": "https://github.com/ghanshyam-nair-emi/arxiv-search-assistant"
             }
         ]
     },
-        {
-        "id": "v1",
+    {
+        "id": "cheddar-ai",
         "title": "Cheddar-Ai",
         "details": {
-            "description": "Cheddar AI is an MCP-based fact-checking engine designed to verify the authenticity of trending news. By leveraging trusted sources and intelligent algorithms, it confirms whether a story is officially validated or not, empowering users to make informed decisions and avoid misinformation. ",
-            "summary": "Agency"
+            "description": "Cheddar AI is an MCP-based fact-checking engine designed to verify the authenticity of trending news. By leveraging trusted sources and intelligent algorithms, it confirms whether a story is officially validated or not, empowering users to make informed decisions and avoid misinformation.",
+            "summary": "Fact-checking Engine"
         },
         "date": "Dec 2024",
         "roles": [
@@ -135,9 +135,9 @@
         "links": [
             {
                 "type": "web",
-                "text": "Visit Site",
-                "link": "https://hover-shelf-ui-rtwg.vercel.app"
+                "text": "View on Github",
+                "link": "https://github.com/ghanshyam-nair-emi/cheddar-ai"
             }
         ]
-    },
+    }
 ]
