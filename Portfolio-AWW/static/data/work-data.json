@@ -75,7 +75,7 @@
         "links": [
             {
                 "type": "web",
-                "text": "Read Paper @",
+                "text": "Read Paper at",
                 "link": "https://ieeexplore.ieee.org/document/9777191/"
             }
         ]
@@ -115,8 +115,8 @@
         "links": [
             {
                 "type": "web",
-                "text": "View on Github",
-                "link": "https://github.com/ghanshyam-nair-emi/arxiv-search-assistant"
+                "text": "Check out the Website",
+                "link": "https://arxivsearch.streamlit.app/"
             }
         ]
     },
@@ -135,8 +135,8 @@
         "links": [
             {
                 "type": "web",
-                "text": "View on Github",
-                "link": "https://github.com/ghanshyam-nair-emi/cheddar-ai"
+                "text": "Check out the Website",
+                "link": "https://cheddar-beta.vercel.app/"
             }
         ]
     }
